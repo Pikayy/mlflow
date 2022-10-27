@@ -1,3 +1,3 @@
 # mlflow workshop
 
-1. Install_mlflow_and_dependencies_using_poetry
+1. Install mlflow and dependencies using poetry
