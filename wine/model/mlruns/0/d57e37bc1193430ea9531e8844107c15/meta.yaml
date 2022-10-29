@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/GoogleDrive-106758256079676607274/My%20Drive/Internal_training/mlflow/wine/model/mlruns/0/d57e37bc1193430ea9531e8844107c15/artifacts
+end_time: 1667049525359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d57e37bc1193430ea9531e8844107c15
+run_name: silent-cod-396
+run_uuid: d57e37bc1193430ea9531e8844107c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667049525165
+status: 4
+tags: []
+user_id: xuyueyang

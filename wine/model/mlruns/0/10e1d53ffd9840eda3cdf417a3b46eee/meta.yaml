@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/GoogleDrive-106758256079676607274/My%20Drive/Internal_training/mlflow/wine/model/mlruns/0/10e1d53ffd9840eda3cdf417a3b46eee/artifacts
+end_time: 1667049768422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10e1d53ffd9840eda3cdf417a3b46eee
+run_name: charming-hare-296
+run_uuid: 10e1d53ffd9840eda3cdf417a3b46eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667049766469
+status: 3
+tags: []
+user_id: xuyueyang

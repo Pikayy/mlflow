@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/GoogleDrive-106758256079676607274/My%20Drive/Internal_training/mlflow/wine/model/mlruns/0/57df0e835d4a41a3b469fe1df2af2dfe/artifacts
+end_time: 1667050006030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57df0e835d4a41a3b469fe1df2af2dfe
+run_name: honorable-fly-870
+run_uuid: 57df0e835d4a41a3b469fe1df2af2dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667050003863
+status: 3
+tags: []
+user_id: xuyueyang

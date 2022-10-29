@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/GoogleDrive-106758256079676607274/My%20Drive/Internal_training/mlflow/wine/model/mlruns/0/a954b4e9cc5347a2bcc434c063889171/artifacts
+end_time: 1667050876034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a954b4e9cc5347a2bcc434c063889171
+run_name: amusing-worm-29
+run_uuid: a954b4e9cc5347a2bcc434c063889171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667050874091
+status: 3
+tags: []
+user_id: xuyueyang

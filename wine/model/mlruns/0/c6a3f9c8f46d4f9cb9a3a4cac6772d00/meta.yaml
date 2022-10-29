@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/GoogleDrive-106758256079676607274/My%20Drive/Internal_training/mlflow/wine/model/mlruns/0/c6a3f9c8f46d4f9cb9a3a4cac6772d00/artifacts
+end_time: 1667049974490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6a3f9c8f46d4f9cb9a3a4cac6772d00
+run_name: traveling-skink-246
+run_uuid: c6a3f9c8f46d4f9cb9a3a4cac6772d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667049974303
+status: 4
+tags: []
+user_id: xuyueyang

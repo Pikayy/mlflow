@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/GoogleDrive-106758256079676607274/My%20Drive/Internal_training/mlflow/wine/model/mlruns/0/5836817876864800aa7035fbf2ce17a7/artifacts
+end_time: 1667049478711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5836817876864800aa7035fbf2ce17a7
+run_name: valuable-koi-690
+run_uuid: 5836817876864800aa7035fbf2ce17a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667049478555
+status: 4
+tags: []
+user_id: xuyueyang
